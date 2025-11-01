@@ -49,12 +49,6 @@ Source repository: https://github.com/shu-shu-1/shu-shu-1
 <img src="https://api.star-history.com/svg?repos=fupsec-Studio/Wallpaper-generator,fupsec-Studio/Jianer-QQ-bot,fupsec/Home_Page,fupsec-Studio/Class-Hot-Search&type=Date" />
   <br/>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fupsec&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,vb,html,md">
-</p>
 
 
 <!-- https://github.com/kyechan99/capsule-render -->
