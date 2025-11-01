@@ -1,7 +1,7 @@
 <!--
 MIT License
 
-Copyright (c) 2025 SRInternet
+Copyright (c) 2025 fupsec
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -28,7 +28,7 @@ Source repository: https://github.com/shu-shu-1/shu-shu-1
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20SRInternet&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20fupsec&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -38,19 +38,19 @@ Source repository: https://github.com/shu-shu-1/shu-shu-1
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SRInternet&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=fupsec&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=SRInternet&theme=transparent&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=fupsec&theme=transparent&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SRInternet&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=fupsec&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/star-history/star-history -->
-<img src="https://api.star-history.com/svg?repos=SRInternet-Studio/Wallpaper-generator,SRInternet-Studio/Jianer-QQ-bot,SRInternet/Home_Page,SRInternet-Studio/Class-Hot-Search&type=Date" />
+<img src="https://api.star-history.com/svg?repos=fupsec-Studio/Wallpaper-generator,fupsec-Studio/Jianer-QQ-bot,fupsec/Home_Page,fupsec-Studio/Class-Hot-Search&type=Date" />
   <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRInternet&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fupsec&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,vb,html,md">
@@ -60,7 +60,7 @@ Source repository: https://github.com/shu-shu-1/shu-shu-1
 <p align="center">
 <a href="https://space.bilibili.com/1969160969"><img src="https://img.shields.io/badge/哔哩哔哩-SR思锐团队-purple?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=SRInternet" />
+<img src="https://komarev.com/ghpvc/?username=fupsec" />
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
