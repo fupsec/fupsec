@@ -56,12 +56,6 @@ Source repository: https://github.com/shu-shu-1/shu-shu-1
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,vb,html,md">
 </p>
 
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<a href="https://space.bilibili.com/1969160969"><img src="https://img.shields.io/badge/哔哩哔哩-SR思锐团队-purple?logo=bilibili" /></a>
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=fupsec" />
-</p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
