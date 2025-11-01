@@ -45,9 +45,7 @@ Source repository: https://github.com/shu-shu-1/shu-shu-1
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=fupsec&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
-<!-- https://github.com/star-history/star-history -->
-<img src="https://api.star-history.com/svg?repos=fupsec-Studio/Wallpaper-generator,fupsec-Studio/Jianer-QQ-bot,fupsec/Home_Page,fupsec-Studio/Class-Hot-Search&type=Date" />
-  <br/>
+
 
 
 
